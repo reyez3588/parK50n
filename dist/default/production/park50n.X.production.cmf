@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$/tmp/xcXjFPNNH.o
+$/tmp/xcXPnMEkc.o
 idloc IDLOC 5 200000 200000 8 1
 init CODE 0 8E 8E 4 1
 reset_vec CODE 0 0 0 4 1
@@ -198,7 +198,7 @@ MEDIUMCONST 3DB2-7E35 1
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production/park50n.X.production.o
-8 intcode CODE >20156:/tmp/xcXMjDMhe.s
+8 intcode CODE >20156:/tmp/xcXMAmfIM.s
 8 intcode CODE >65:/home/reyez/Documents/mplabProjects/park50n.X/mcc_generated_files/interrupt_manager.c
 3A intcode CODE >68:/home/reyez/Documents/mplabProjects/park50n.X/mcc_generated_files/interrupt_manager.c
 56 intcode CODE >70:/home/reyez/Documents/mplabProjects/park50n.X/mcc_generated_files/interrupt_manager.c
@@ -1742,60 +1742,60 @@ FFA text22 CODE >260:/home/reyez/Documents/mplabProjects/park50n.X/SparkFunLSM9D
 1E62 text0 CODE >190:/home/reyez/Documents/mplabProjects/park50n.X/main.c
 1E72 text0 CODE >193:/home/reyez/Documents/mplabProjects/park50n.X/main.c
 1E96 text0 CODE >199:/home/reyez/Documents/mplabProjects/park50n.X/main.c
-3476 cinit CODE >6070:/tmp/xcXMjDMhe.s
-3476 cinit CODE >6072:/tmp/xcXMjDMhe.s
-3476 cinit CODE >6075:/tmp/xcXMjDMhe.s
-3476 cinit CODE >6347:/tmp/xcXMjDMhe.s
-3478 cinit CODE >6348:/tmp/xcXMjDMhe.s
-347A cinit CODE >6349:/tmp/xcXMjDMhe.s
-347C cinit CODE >6350:/tmp/xcXMjDMhe.s
-347E cinit CODE >6351:/tmp/xcXMjDMhe.s
-3480 cinit CODE >6352:/tmp/xcXMjDMhe.s
-3482 cinit CODE >6353:/tmp/xcXMjDMhe.s
-3484 cinit CODE >6354:/tmp/xcXMjDMhe.s
-3488 cinit CODE >6355:/tmp/xcXMjDMhe.s
-348A cinit CODE >6356:/tmp/xcXMjDMhe.s
-348E cinit CODE >6360:/tmp/xcXMjDMhe.s
-3490 cinit CODE >6361:/tmp/xcXMjDMhe.s
-3492 cinit CODE >6362:/tmp/xcXMjDMhe.s
-3494 cinit CODE >6363:/tmp/xcXMjDMhe.s
-3496 cinit CODE >6364:/tmp/xcXMjDMhe.s
-3498 cinit CODE >6365:/tmp/xcXMjDMhe.s
-349A cinit CODE >6366:/tmp/xcXMjDMhe.s
-349C cinit CODE >6367:/tmp/xcXMjDMhe.s
-34A0 cinit CODE >6368:/tmp/xcXMjDMhe.s
-34A2 cinit CODE >6369:/tmp/xcXMjDMhe.s
-34A6 cinit CODE >6373:/tmp/xcXMjDMhe.s
-34AA cinit CODE >6374:/tmp/xcXMjDMhe.s
-34AC cinit CODE >6375:/tmp/xcXMjDMhe.s
-34AC cinit CODE >6376:/tmp/xcXMjDMhe.s
-34AE cinit CODE >6377:/tmp/xcXMjDMhe.s
-34B0 cinit CODE >6378:/tmp/xcXMjDMhe.s
-34B2 cinit CODE >6381:/tmp/xcXMjDMhe.s
-34B6 cinit CODE >6382:/tmp/xcXMjDMhe.s
-34B8 cinit CODE >6383:/tmp/xcXMjDMhe.s
-34B8 cinit CODE >6384:/tmp/xcXMjDMhe.s
-34BA cinit CODE >6385:/tmp/xcXMjDMhe.s
-34BC cinit CODE >6386:/tmp/xcXMjDMhe.s
-34BE cinit CODE >6389:/tmp/xcXMjDMhe.s
-34C2 cinit CODE >6390:/tmp/xcXMjDMhe.s
-34C4 cinit CODE >6391:/tmp/xcXMjDMhe.s
-34C4 cinit CODE >6392:/tmp/xcXMjDMhe.s
-34C6 cinit CODE >6393:/tmp/xcXMjDMhe.s
-34C8 cinit CODE >6394:/tmp/xcXMjDMhe.s
-34CA cinit CODE >6397:/tmp/xcXMjDMhe.s
-34CE cinit CODE >6398:/tmp/xcXMjDMhe.s
-34D0 cinit CODE >6399:/tmp/xcXMjDMhe.s
-34D0 cinit CODE >6400:/tmp/xcXMjDMhe.s
-34D2 cinit CODE >6401:/tmp/xcXMjDMhe.s
-34D4 cinit CODE >6402:/tmp/xcXMjDMhe.s
-34D6 cinit CODE >6408:/tmp/xcXMjDMhe.s
-34D6 cinit CODE >6410:/tmp/xcXMjDMhe.s
-34D8 cinit CODE >6411:/tmp/xcXMjDMhe.s
-34DA cinit CODE >6413:/tmp/xcXMjDMhe.s
-34DC cinit CODE >6414:/tmp/xcXMjDMhe.s
-34DE cinit CODE >6415:/tmp/xcXMjDMhe.s
-34E0 cinit CODE >6416:/tmp/xcXMjDMhe.s
+3476 cinit CODE >6070:/tmp/xcXMAmfIM.s
+3476 cinit CODE >6072:/tmp/xcXMAmfIM.s
+3476 cinit CODE >6075:/tmp/xcXMAmfIM.s
+3476 cinit CODE >6347:/tmp/xcXMAmfIM.s
+3478 cinit CODE >6348:/tmp/xcXMAmfIM.s
+347A cinit CODE >6349:/tmp/xcXMAmfIM.s
+347C cinit CODE >6350:/tmp/xcXMAmfIM.s
+347E cinit CODE >6351:/tmp/xcXMAmfIM.s
+3480 cinit CODE >6352:/tmp/xcXMAmfIM.s
+3482 cinit CODE >6353:/tmp/xcXMAmfIM.s
+3484 cinit CODE >6354:/tmp/xcXMAmfIM.s
+3488 cinit CODE >6355:/tmp/xcXMAmfIM.s
+348A cinit CODE >6356:/tmp/xcXMAmfIM.s
+348E cinit CODE >6360:/tmp/xcXMAmfIM.s
+3490 cinit CODE >6361:/tmp/xcXMAmfIM.s
+3492 cinit CODE >6362:/tmp/xcXMAmfIM.s
+3494 cinit CODE >6363:/tmp/xcXMAmfIM.s
+3496 cinit CODE >6364:/tmp/xcXMAmfIM.s
+3498 cinit CODE >6365:/tmp/xcXMAmfIM.s
+349A cinit CODE >6366:/tmp/xcXMAmfIM.s
+349C cinit CODE >6367:/tmp/xcXMAmfIM.s
+34A0 cinit CODE >6368:/tmp/xcXMAmfIM.s
+34A2 cinit CODE >6369:/tmp/xcXMAmfIM.s
+34A6 cinit CODE >6373:/tmp/xcXMAmfIM.s
+34AA cinit CODE >6374:/tmp/xcXMAmfIM.s
+34AC cinit CODE >6375:/tmp/xcXMAmfIM.s
+34AC cinit CODE >6376:/tmp/xcXMAmfIM.s
+34AE cinit CODE >6377:/tmp/xcXMAmfIM.s
+34B0 cinit CODE >6378:/tmp/xcXMAmfIM.s
+34B2 cinit CODE >6381:/tmp/xcXMAmfIM.s
+34B6 cinit CODE >6382:/tmp/xcXMAmfIM.s
+34B8 cinit CODE >6383:/tmp/xcXMAmfIM.s
+34B8 cinit CODE >6384:/tmp/xcXMAmfIM.s
+34BA cinit CODE >6385:/tmp/xcXMAmfIM.s
+34BC cinit CODE >6386:/tmp/xcXMAmfIM.s
+34BE cinit CODE >6389:/tmp/xcXMAmfIM.s
+34C2 cinit CODE >6390:/tmp/xcXMAmfIM.s
+34C4 cinit CODE >6391:/tmp/xcXMAmfIM.s
+34C4 cinit CODE >6392:/tmp/xcXMAmfIM.s
+34C6 cinit CODE >6393:/tmp/xcXMAmfIM.s
+34C8 cinit CODE >6394:/tmp/xcXMAmfIM.s
+34CA cinit CODE >6397:/tmp/xcXMAmfIM.s
+34CE cinit CODE >6398:/tmp/xcXMAmfIM.s
+34D0 cinit CODE >6399:/tmp/xcXMAmfIM.s
+34D0 cinit CODE >6400:/tmp/xcXMAmfIM.s
+34D2 cinit CODE >6401:/tmp/xcXMAmfIM.s
+34D4 cinit CODE >6402:/tmp/xcXMAmfIM.s
+34D6 cinit CODE >6408:/tmp/xcXMAmfIM.s
+34D6 cinit CODE >6410:/tmp/xcXMAmfIM.s
+34D8 cinit CODE >6411:/tmp/xcXMAmfIM.s
+34DA cinit CODE >6413:/tmp/xcXMAmfIM.s
+34DC cinit CODE >6414:/tmp/xcXMAmfIM.s
+34DE cinit CODE >6415:/tmp/xcXMAmfIM.s
+34E0 cinit CODE >6416:/tmp/xcXMAmfIM.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -1830,7 +1830,7 @@ USBTransferOnePacket@len E0 0 BANK0 1 cstackBANK0 dist/default/production/park50
 __Hibigdata 0 0 CODE 0 ibigdata dist/default/production/park50n.X.production.o
 __size_of_I2C1_SetCallback 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __size_of_mWriteByte 0 0 ABS 0 - dist/default/production/park50n.X.production.o
-__mediumconst 7E36 0 MEDIUMCONST 0 mediumconst /tmp/xcXjFPNNH.o
+__mediumconst 7E36 0 MEDIUMCONST 0 mediumconst /tmp/xcXPnMEkc.o
 LSM9DS1_I2CreadByte@data F1 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
 __size_of_USBCtrlEPServiceComplete 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __size_of_I2C1_Poller 0 0 ABS 0 - dist/default/production/park50n.X.production.o
@@ -1866,7 +1866,7 @@ _UEIR F67 0 ABS 0 - dist/default/production/park50n.X.production.o
 _UEP0 F6A 0 ABS 0 - dist/default/production/park50n.X.production.o
 _UEP1 F6B 0 ABS 0 - dist/default/production/park50n.X.production.o
 _WPUB F85 0 ABS 0 - dist/default/production/park50n.X.production.o
-___sp 0 0 STACK 2 stack /tmp/xcXjFPNNH.o
+___sp 0 0 STACK 2 stack /tmp/xcXPnMEkc.o
 _aRes AC 0 BANK0 1 bssBANK0 dist/default/production/park50n.X.production.o
 _gRes B0 0 BANK0 1 bssBANK0 dist/default/production/park50n.X.production.o
 _mRes 18A 0 BANK1 1 bssBANK1 dist/default/production/park50n.X.production.o
@@ -1876,7 +1876,7 @@ btemp 55 0 COMRAM 1 temp dist/default/production/park50n.X.production.o
 _gBiasRaw 94 0 BANK0 1 bssBANK0 dist/default/production/park50n.X.production.o
 _accelAvailableALL 3CC2 0 CODE 0 text6 dist/default/production/park50n.X.production.o
 __size_of_USBCtrlTrfTxService 0 0 ABS 0 - dist/default/production/park50n.X.production.o
-start 8E 0 CODE 0 init /tmp/xcXjFPNNH.o
+start 8E 0 CODE 0 init /tmp/xcXPnMEkc.o
 ___flmul@aexp 1F0 0 BANK1 1 cstackBANK1 dist/default/production/park50n.X.production.o
 ___flmul@bexp 1F5 0 BANK1 1 cstackBANK1 dist/default/production/park50n.X.production.o
 ___flmul@prod 1F6 0 BANK1 1 cstackBANK1 dist/default/production/park50n.X.production.o
@@ -1925,11 +1925,11 @@ rd1RegCompleteHandler@ptr E6 0 BANK0 1 cstackBANK0 dist/default/production/park5
 __size_of_rd1RegCompleteHandler 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __size_of_I2C1_MasterWaitForEvent 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 _xgReadByte 3ADE 0 CODE 0 text16 dist/default/production/park50n.X.production.o
-__accesstop 60 0 ABS 0 - /tmp/xcXjFPNNH.o
-intlevel0 0 0 CODE 0 text /tmp/xcXjFPNNH.o
-intlevel1 0 0 CODE 0 text /tmp/xcXjFPNNH.o
-intlevel2 0 0 CODE 0 text /tmp/xcXjFPNNH.o
-intlevel3 0 0 CODE 0 text /tmp/xcXjFPNNH.o
+__accesstop 60 0 ABS 0 - /tmp/xcXPnMEkc.o
+intlevel0 0 0 CODE 0 text /tmp/xcXPnMEkc.o
+intlevel1 0 0 CODE 0 text /tmp/xcXPnMEkc.o
+intlevel2 0 0 CODE 0 text /tmp/xcXPnMEkc.o
+intlevel3 0 0 CODE 0 text /tmp/xcXPnMEkc.o
 __ptext100 2708 0 CODE 0 text100 dist/default/production/park50n.X.production.o
 __ptext101 12E4 0 CODE 0 text101 dist/default/production/park50n.X.production.o
 __ptext102 21F6 0 CODE 0 text102 dist/default/production/park50n.X.production.o
@@ -2000,8 +2000,8 @@ __end_of_I2C1_DO_RX_NACK_STOP 3D48 0 CODE 0 text38 dist/default/production/park5
 LSM9DS1begin@xgTest 1F0 0 BANK1 1 cstackBANK1 dist/default/production/park50n.X.production.o
 _I2C1_MasterEnableRestart 3D9A 0 CODE 0 text69 dist/default/production/park50n.X.production.o
 ?_calcAccel F7 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
-___inthi_sp 0 0 STACK 2 stack /tmp/xcXjFPNNH.o
-___intlo_sp 0 0 STACK 2 stack /tmp/xcXjFPNNH.o
+___inthi_sp 0 0 STACK 2 stack /tmp/xcXPnMEkc.o
+___intlo_sp 0 0 STACK 2 stack /tmp/xcXPnMEkc.o
 __size_of_I2C1_DO_IDLE 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __size_of_I2C1_DO_RCEN 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __end_of_rdBlkRegCompleteHandler 3868 0 CODE 0 text60 dist/default/production/park50n.X.production.o
@@ -2138,7 +2138,7 @@ _cdc_data_tx 500 0 ABS 1 - dist/default/production/park50n.X.production.o
 calcAccel@accel F7 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
 _INTERRUPT_InterruptManagerHigh 8 0 CODE 0 intcode dist/default/production/park50n.X.production.o
 __size_of_I2C1_MasterSendNack 0 0 ABS 0 - dist/default/production/park50n.X.production.o
-isa$xinst 0 0 ABS 0 - /tmp/xcXjFPNNH.o
+isa$xinst 0 0 ABS 0 - /tmp/xcXPnMEkc.o
 __end_of_USBEnableEndpoint 3824 0 CODE 0 text109 dist/default/production/park50n.X.production.o
 _readBuffer 192 0 BANK1 1 bssBANK1 dist/default/production/park50n.X.production.o
 _I2C1_Status 100 0 BANK1 1 bssBANK1 dist/default/production/park50n.X.production.o
@@ -2183,7 +2183,7 @@ __size_of___xxtofl 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __size_of_USBCtrlEPAllowStatusStage 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 __Hbigbss 0 0 BIGRAM 1 bigbss dist/default/production/park50n.X.production.o
 __Hbigram 0 0 ABS 0 bigram dist/default/production/park50n.X.production.o
-__smallconst 0 0 SMALLCONST 0 smallconst /tmp/xcXjFPNNH.o
+__smallconst 0 0 SMALLCONST 0 smallconst /tmp/xcXPnMEkc.o
 _USBCheckStdRequest 1EA2 0 CODE 0 text99 dist/default/production/park50n.X.production.o
 ___xxtofl@arg E7 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
 ___xxtofl@exp E6 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
@@ -2604,7 +2604,7 @@ __end_of_USBDeviceAttach 38AA 0 CODE 0 text10 dist/default/production/park50n.X.
 __end_of_USBDeviceTasks AD0 0 CODE 0 text88 dist/default/production/park50n.X.production.o
 _ep_data_out B8 0 BANK0 1 bssBANK0 dist/default/production/park50n.X.production.o
 __Lfardata 0 0 FARRAM 0 fardata dist/default/production/park50n.X.production.o
-isa$std 1 0 ABS 0 - /tmp/xcXjFPNNH.o
+isa$std 1 0 ABS 0 - /tmp/xcXPnMEkc.o
 __end_of_rd1RegCompleteHandler 3A24 0 CODE 0 text63 dist/default/production/park50n.X.production.o
 i2_USBDeviceInit 171A 0 CODE 0 text89 dist/default/production/park50n.X.production.o
 __end_of_xgReadBytes 3960 0 CODE 0 text2 dist/default/production/park50n.X.production.o
@@ -2615,8 +2615,8 @@ putUSBUSART@length DF 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.pr
 __size_of_Accelfloat 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 _I2C1_MasterSendTxData 3D26 0 CODE 0 text53 dist/default/production/park50n.X.production.o
 __size_of_I2C1_MasterGetRxData 0 0 ABS 0 - dist/default/production/park50n.X.production.o
-stackhi 7FF 0 ABS 0 - /tmp/xcXjFPNNH.o
-stacklo 580 0 ABS 0 - /tmp/xcXjFPNNH.o
+stackhi 7FF 0 ABS 0 - /tmp/xcXPnMEkc.o
+stacklo 580 0 ABS 0 - /tmp/xcXPnMEkc.o
 _cdc_mem_type D9 0 BANK0 1 bssBANK0 dist/default/production/park50n.X.production.o
 __end_of_USBConfigureEndpoint 2BBA 0 CODE 0 text110 dist/default/production/park50n.X.production.o
 I2C1_Open@returnValue DE 0 BANK0 1 cstackBANK0 dist/default/production/park50n.X.production.o
@@ -2809,7 +2809,7 @@ __Ltext98 0 0 ABS 0 text98 dist/default/production/park50n.X.production.o
 __Ltext99 0 0 ABS 0 text99 dist/default/production/park50n.X.production.o
 __end_of_USBCheckCDCRequest 2410 0 CODE 0 text106 dist/default/production/park50n.X.production.o
 __end_of_USBCtrlTrfInHandler 251A 0 CODE 0 text114 dist/default/production/park50n.X.production.o
-__ramtop 800 0 RAM 0 ramtop /tmp/xcXjFPNNH.o
+__ramtop 800 0 RAM 0 ramtop /tmp/xcXPnMEkc.o
 __size_of_I2C1_Read1ByteRegister 0 0 ABS 0 - dist/default/production/park50n.X.production.o
 _CDCInitEP 3624 0 CODE 0 text107 dist/default/production/park50n.X.production.o
 _USBCtrlEPServiceComplete 1AEC 0 CODE 0 text97 dist/default/production/park50n.X.production.o
