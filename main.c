@@ -2,7 +2,7 @@
   Generated Main Source File
 
   Company:
-    Microchip Technology Inc.
+            ITST
 
   File Name:
     main.c
